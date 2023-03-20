@@ -10,7 +10,7 @@ The following guidelines should be followed when making any open-source contribu
 - [ ] Be sure changes are compatible with the repository's license.
 - [ ] In case of conflicts, provide helpful explanations regarding your proposed changes so that they can be approved by repo owners.
 
-## New Prompt Guidelines
+## New Prompt Guidelines :
 To add a new prompt to this repository, a contributor should take the following steps (in their personal fork):
 1. Create and test the new prompt.
     - See the [README](https://github.com/f/awesome-chatgpt-prompts/blob/main/README.md) for guidance on how to write effective prompts.
